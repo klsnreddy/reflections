@@ -1,0 +1,1 @@
+You've just learned several Git commands pretty quickly. If you'd like some help keeping track of them, you might be interested in this Git cheat sheet. By now, we've covered the commands in the sections "Configure Tooling", "Create Repositories", and "Make Changes". You'll be learning many of the remaining commands on this sheet throughout the rest of this course.
