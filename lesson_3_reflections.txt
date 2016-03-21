@@ -1,9 +1,5 @@
-Nanodegree Program Difference:
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-Innovative online model that is accessible, affordable and inclusive.
+You may also want to commit and push your changes. When you're finished, click "Next" and Sarah will go over what to do if you want to share your changes to a repository and you don't have permission to modify the original.
 
-Intensive coursework, expert instructors, and cutting-edge curriculum
-
-One-on-one coaching, best-in-class project review, and facilitated peer support
-
-Empowering and informative career support
+Now that you've both pushed changes to GitHub, and pulled changes from GitHub, add the following question and your thoughts on it to your reflections file:
